@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-Hey There!<br>I'm Sunil, a student pursuing Computer Science and Engineering at NITK.<br><br>
+<br>I'm Sunil, a student pursuing Computer Science and Engineering at NITK.<br><br>
 
 
 ## 🌐 Socials:
