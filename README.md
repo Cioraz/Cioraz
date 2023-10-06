@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=Cioraz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=Cioraz&icon=6&color=9)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=Cioraz&icon=6&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
