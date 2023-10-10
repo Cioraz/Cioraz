@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>I'm Sunil, a student pursuing Computer Science and Engineering at NITK.<br><br>
+<br>Hey there, Im Sunil a human who just has a knack for development<br><br>
 
 [![An image of @cioraz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cioraz)](https://holopin.io/@cioraz)
 
