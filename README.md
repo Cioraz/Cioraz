@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 [![An image of @cioraz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cioraz)](https://holopin.io/@cioraz)
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sunil_gg7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-thunga-964462236/)
 
