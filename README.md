@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>Im Sunil, a computer science nerd from India. Always tinkering with some websites or doing some low level stuff. <br><br>
+
 
 [![An image of @cioraz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cioraz)](https://holopin.io/@cioraz)
 
